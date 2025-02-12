@@ -10,25 +10,25 @@ Une fois effectué, vous devriez lire ce message dans l'environnement CodeSpace 
 Essayons maintenant [un programme basique](bienjoue.ipynb)
 
 1. Fondamentaux du langage
-    * S1 - [Types de base et variables](fundamentals/types-variables/tutorial.ipynb)
-    * S1 - [Structures de données 1 : listes et tuples](fundamentals/data-structures1/tutorial.ipynb)
-    * S1 - [Structures de données 2 : dictionnaires et sets](fundamentals/data-structures2/tutorial.ipynb)
-    * S2 - [Tests logiques et conditions](fundamentals/tests/tutorial.ipynb)
-    * S2 - [Boucles](fundamentals/loops/tutorial.ipynb)
-    * S2 - [Fonctions](fundamentals/functions/tutorial.ipynb)
-    * S3 - [Notions de programmation orientée objet](fundamentals/oop/tutorial.ipynb)
+    * DJ1 - [Types de base et variables](fundamentals/types-variables/tutorial.ipynb)
+    * DJ1 - [Structures de données 1 : listes et tuples](fundamentals/data-structures1/tutorial.ipynb)
+    * DJ1 - [Structures de données 2 : dictionnaires et sets](fundamentals/data-structures2/tutorial.ipynb)
+    * DJ2 - [Tests logiques et conditions](fundamentals/tests/tutorial.ipynb)
+    * DJ2 - [Boucles](fundamentals/loops/tutorial.ipynb)
+    * DJ2 - [Fonctions](fundamentals/functions/tutorial.ipynb)
+    * DJ3 - [Notions de programmation orientée objet](fundamentals/oop/tutorial.ipynb)
         * [Xavier Blanc training on OOP ](https://www.youtube.com/playlist?list=PLuNTRFkYD3u6hdYBgQ4qWbP-vgrKUukSS)
 
 
 2. Manipulation de données
-    * S3 - [Manipulation de fichiers](manipulation/modules-files/tutorial.ipynb)
-    * S3 - [Travailler avec des fichiers CSV et JSON](manipulation/csv-json-files/tutorial.ipynb)
+    * DJ3 - [Manipulation de fichiers](manipulation/modules-files/tutorial.ipynb)
+    * DJ3 - [Travailler avec des fichiers CSV et JSON](manipulation/csv-json-files/tutorial.ipynb)
     * [Calcul numérique avec NumPy](manipulation/numpy/tutorial.ipynb)
     * [Traiter des données tabulaires avec Pandas](manipulation/pandas/tutorial.ipynb)
     * [Introduction à la visualisation de données](manipulation/dataviz/tutorial.ipynb)
 
 3. Projets
-    * S3 - [Projet 1 - Puissance 4](projects/puissance4/tutorial.ipynb)
+    * DJ3 - [Projet 1 - Puissance 4](projects/puissance4/tutorial.ipynb)
     * [Projet 2 - Prédictions météorologiques](projects/meteo/tutorial.ipynb)
     * [Projet 3 - Estimations de population à partir du recensement](projects/RP/tutorial.ipynb)
 
