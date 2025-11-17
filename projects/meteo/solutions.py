@@ -10,7 +10,8 @@ def build_request_nominatim(country, city):
 
 
 def get_lat_long(query):
-    response = requests.get(query)
+    response = requests.get(query,headers={"user-agent": "phd python"})
+    # https://operations.osmfoundation.org/policies/nominatim/
     code = response.status_code
     if code == 200:
         json_data = response.json()
