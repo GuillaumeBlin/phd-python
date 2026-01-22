@@ -1,0 +1,14 @@
+{  
+  "name": "Python 3",
+  "image": "mcr.microsoft.com/devcontainers/python:3.14-trixie",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/coverage-py:2": {}
+  },
+  "updateContentCommand": "pip3 install numpy pandas",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  },  
+  "remoteUser": "vscode"
+}
