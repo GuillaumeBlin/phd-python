@@ -8,6 +8,7 @@
   "customizations": {
     "vscode": {
       "settings": {
+		  		"python.selectInterpreter":"/usr/local/bin/python",
 				"python.defaultInterpreterPath": "/usr/local/bin/python"
 			},
       "extensions": ["ms-python.python",
