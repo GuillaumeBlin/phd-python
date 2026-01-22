@@ -7,7 +7,8 @@
   "updateContentCommand": "pip3 install numpy pandas",
   "customizations": {
     "vscode": {
-      "extensions": ["ms-python.python"]
+      "extensions": ["ms-python.python",
+                      "ms-toolsai.jupyter"]
     }
   },  
   "remoteUser": "vscode"
