@@ -7,6 +7,9 @@
   "updateContentCommand": "pip3 install numpy pandas",
   "customizations": {
     "vscode": {
+      "settings": {
+				"python.defaultInterpreterPath": "/usr/local/bin/python"
+			},
       "extensions": ["ms-python.python",
                       "ms-toolsai.jupyter"]
     }
